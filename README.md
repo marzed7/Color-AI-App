@@ -2,6 +2,10 @@
 
 AI Color Palette Generator is a web application that uses OpenAI's GPT-3 model to generate a color palette based on a user's input description.
 
+## Screenshot
+![image](https://github.com/marzed7/Color-AI-App/assets/141207242/a65ac0be-e63c-48b2-be1a-8030fa75df88)
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
